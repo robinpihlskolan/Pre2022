@@ -1,0 +1,21 @@
+WIDTH=400
+HEIGHT=600
+
+WHITE = (255, 255, 255)
+GREEN = (100, 200, 100)
+BLUE = (100, 100, 255)
+RED = (255, 100, 100)
+YELLOW = (255, 255, 0)
+BLACK= (0,0,0)
+
+Player_WIDTH= 40
+Player_HEIGHT=40
+Player_Speed=5
+Player_Jump_Speed=-15
+GRAVITY=0.5
+
+Platform_WIDTH=60
+Platform_HEIGHT=10
+
+Powerup_WIDTH=20
+Powerup_HEIGHT=20
